@@ -100,7 +100,7 @@ export default function Wizard() {
         message: "SSN already registered",
       });
 
-      return; // 🚨 stop submit
+      return; //  stop submit
     }
 
     console.log(data);

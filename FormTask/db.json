@@ -21,35 +21,6 @@
         "address2": "",
         "address1": "",
         "sex": "female",
-        "ssn": "987654321",
-        "dob": "2026-03-03T18:30:00.000Z",
-        "lastName": "b",
-        "middleName": "",
-        "firstName": "bro"
-      },
-      "id": "5315"
-    },
-    {
-      "insurances": [],
-      "patient": {
-        "patientNotes": "",
-        "spousePhone": "",
-        "spouseName": "",
-        "motherPhone": "",
-        "motherName": "",
-        "fatherPhone": "",
-        "fatherName": "",
-        "patientStatus": "",
-        "languagePreferred": "",
-        "email": "asd@gmail.com",
-        "phone": "9876543211",
-        "zipcode": "",
-        "city": "",
-        "country": "",
-        "state": "",
-        "address2": "",
-        "address1": "",
-        "sex": "female",
         "ssn": "987643211",
         "dob": "2026-03-03T18:30:00.000Z",
         "lastName": "b",
@@ -57,35 +28,6 @@
         "firstName": "brooooo"
       },
       "id": "2124"
-    },
-    {
-      "id": "94fb",
-      "insurances": [],
-      "patient": {
-        "patientNotes": "",
-        "spousePhone": "",
-        "spouseName": "",
-        "motherPhone": "",
-        "motherName": "",
-        "fatherPhone": "",
-        "fatherName": "",
-        "patientStatus": "",
-        "languagePreferred": "",
-        "email": "abc@gmail.com",
-        "phone": "9876543211",
-        "zipcode": "98777",
-        "city": "zsxdfghj",
-        "country": "Albania",
-        "state": "Berat District",
-        "address2": "dcfgbhjk",
-        "address1": "kjhgfdsz",
-        "sex": "female",
-        "ssn": "121212121",
-        "dob": "2026-03-01T18:30:00.000Z",
-        "lastName": "r",
-        "middleName": "",
-        "firstName": "sadfghjmn"
-      }
     },
     {
       "id": "8bb4",
@@ -286,35 +228,6 @@
         "lastName": "rdtfyguh",
         "middleName": "",
         "firstName": "sedrftgy"
-      }
-    },
-    {
-      "id": "099c",
-      "insurances": [],
-      "patient": {
-        "patientNotes": "",
-        "spousePhone": "",
-        "spouseName": "",
-        "motherPhone": "",
-        "motherName": "",
-        "fatherPhone": "",
-        "fatherName": "",
-        "patientStatus": "",
-        "languagePreferred": "",
-        "email": "aesdfghjokl@gmail.com",
-        "phone": "9876543222",
-        "zipcode": "",
-        "city": "",
-        "country": "",
-        "state": "",
-        "address2": "",
-        "address1": "",
-        "sex": "others",
-        "ssn": "876876877",
-        "dob": "2026-03-10T18:30:00.000Z",
-        "lastName": "nh",
-        "middleName": "bgtfv",
-        "firstName": "nhgbf"
       }
     }
   ],
