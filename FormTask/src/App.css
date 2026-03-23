@@ -1,0 +1,33 @@
+.app-container {
+  min-height: 100vh;
+  background-color: #f4f6f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.app-card {
+  width: 100%;
+  max-width: 900px;
+  background: white;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0px 4px 15px rgba(0,0,0,0.08);
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 28px;
+  color: #333;
+}
+
+.app-header p {
+  margin-top: 5px;
+  color: #777;
+}

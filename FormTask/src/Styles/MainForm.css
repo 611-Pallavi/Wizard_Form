@@ -1,0 +1,30 @@
+/* Header.css */
+
+.app-header {
+  width: 100%;
+  padding: 16px 24px;
+  margin-bottom: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: linear-gradient(135deg, #2a46e7, #6e8be9);
+  color: white;
+
+
+}
+
+/* title */
+.app-header h1 {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+/* subtitle */
+.app-header p {
+  margin: 2px 0 0 0;
+  font-size: 14px;
+  opacity: 0.9;
+}
